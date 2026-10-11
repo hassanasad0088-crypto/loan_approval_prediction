@@ -4,7 +4,7 @@ A machine learning project that predicts whether a loan application will be appr
 
 **Live app:** DEPLOYED-APP-LINK
 
-![Deployed application](deployed_app.png)
+https://loanapprovalprediction-akgcctkvpiiyutdrejjurq.streamlit.app/
 
 ## 1. Problem Statement
 
